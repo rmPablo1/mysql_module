@@ -9,3 +9,8 @@
 ::1 - - [24/May/2023:23:23:13 +0000] "GET /js/main.js HTTP/1.1" 200 519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 ::1 - - [24/May/2023:23:23:13 +0000] "GET /images/2023-05-18T19:41:28.363Z-Black%20Modern%20Personal%20LinkedIn%20Banner%20(1).png HTTP/1.1" 404 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 ::1 - - [24/May/2023:23:23:13 +0000] "GET /favicon.ico HTTP/1.1" 404 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+::1 - - [24/May/2023:23:50:31 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+::1 - - [24/May/2023:23:50:31 +0000] "GET /css/main.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+::1 - - [24/May/2023:23:50:31 +0000] "GET /css/product.css HTTP/1.1" 200 379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+::1 - - [24/May/2023:23:50:31 +0000] "GET /js/main.js HTTP/1.1" 200 519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+::1 - - [24/May/2023:23:50:31 +0000] "GET /images/2023-05-18T19:41:28.363Z-Black%20Modern%20Personal%20LinkedIn%20Banner%20(1).png HTTP/1.1" 404 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"

@@ -129,3 +129,4 @@ mongoose
     console.log(err);
   });
 
+module.exports = app

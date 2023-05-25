@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const stripe = require("stripe")(process.env.STRIPE_KEY)
+const stripe = require("stripe")("sk_test_51N9GA9F0SJVPGyQxwVI8vDBNVyO1CXzEIqdPSoiTPcBibYrTdmlNNBinAx0PgYZDZyCUSSehYvcvY0C094e9WLDj00r2WPEjQp")
 const PDFDocument = require('pdfkit');
 
 const Product = require('../models/product');

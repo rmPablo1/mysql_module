@@ -1,8 +1,0 @@
-{
-  "env": {
-    "MONGO_USER": "rmPablo",
-    "MONGO_PASSWORD": "Pabroskryto1",
-    "STRIPE_KEY": "sk_test_51N9GA9F0SJVPGyQxwVI8vDBNVyO1CXzEIqdPSoiTPcBibYrTdmlNNBinAx0PgYZDZyCUSSehYvcvY0C094e9WLDj00r2WPEjQp",
-    "MONGO_DB": "test"
-  }
-}

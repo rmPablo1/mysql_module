@@ -9,7 +9,7 @@
   "scripts": {
     "start:dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "node ./api/index.js",
     "start-server": "node app.js"
   },
   "author": "Maximilian Schwarzmüller",

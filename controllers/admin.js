@@ -37,8 +37,8 @@ exports.postAddProduct = (req, res, next) => {
       validationErrors: []
     });
   }
-  const errors = validat
-  const imageUrl = image.path;ionResult(req);
+  const errors = validationResult(req)
+  const imageUrl = image.path;
 
   if (!errors.isEmpty()) {
     console.log(errors.array());

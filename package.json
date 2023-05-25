@@ -9,7 +9,7 @@
   "scripts": {
     "start:dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./api/index.js",
+    "start": "SENDGRID_KEY=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 MONGO_USERNAME=rmPablo MONGO_PASSWORD=Pabroskryto1 MONGO_DB=test STRIPE_KEY=sk_test_51N9GA9F0SJVPGyQxwVI8vDBNVyO1CXzEIqdPSoiTPcBibYrTdmlNNBinAx0PgYZDZyCUSSehYvcvY0C094e9WLDj00r2WPEjQp  node app.js",
     "start-server": "node app.js"
   },
   "author": "Maximilian Schwarzmüller",
